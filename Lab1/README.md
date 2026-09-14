@@ -2,7 +2,7 @@
 
 **Estimated time:** 75 minutes (in-class, guided)
 **Submission:** Two links on Canvas — your GitHub repo URL, and your completed notebook URL
-**Due:** Before next session
+**Due:** Sept 14, 2026 at 3:05 pm
 
 ## A Note on Format
 
