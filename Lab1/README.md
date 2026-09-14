@@ -1,4 +1,4 @@
-# Lab 2: MLP Regression & Classification — One-Hot, Binary, Multiclass
+# Lab 1: MLP Regression & Classification — One-Hot, Binary, Multiclass
 
 **Estimated time:** 75 minutes (in-class, guided)
 **Submission:** Two links on Canvas — your GitHub repo URL, and your completed notebook URL
